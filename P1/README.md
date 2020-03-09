@@ -30,3 +30,5 @@ Y `ping 192.168.56.100` (Desde M2)
 Y comprobamos que efectivamente tienen conexión.
 
 Para comprobar la versión del servidor utilizaremos los comando `apache2 -v` y para ver si está en ejecución `ps aux | grep apache`
+
+![9](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/9.JPG)
