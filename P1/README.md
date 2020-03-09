@@ -53,3 +53,5 @@ Web de ejemplo de “tu_usuario_git” para SWAP
 ```
 
 Y comprobamos que podemos acceder a él desde la máquina 1 a la 2:
+
+![12](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/12.JPG)
