@@ -13,5 +13,7 @@ de tipo NAT y el adaptador 2 de solo anfitrión.
 
 Para que la comunicación entre los propios servidores y entre el host se produzca correctamente, debemos añadir las IPs estáticas correspondientes mediante la interfaz de sincronización enp0s8 ya que por defecto no viene definida. Para realizar esta tarea tendremos que editar el archivo 'etc/network/interfaces' mediante el comando `sudo nano interfaces` y añadiríamos:
 
-![2](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/3.JPG)
-![2](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/4.JPG)
+![3](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/3.JPG)
+![4](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/4.JPG)
+
+Y activamos el enp0s8 con el comando ifup enp0s8. Por lo que la configuración de ambas máquinas quedaría tal que así:
