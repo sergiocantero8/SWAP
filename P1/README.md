@@ -22,4 +22,10 @@ Y activamos el enp0s8 con el comando ifup enp0s8. Por lo que la configuración d
 
 Para la verificación del estado de las conexiones locales anteriormentes configuradas, utilizaremos la herramienta de diagnóstico `ping`.
 `ping 192.168.56.200` (Desde M1)
+![7](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/7.JPG)
+
+Y `ping 192.168.56.100` (Desde M2)
+![8](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/8.JPG)
+
+Y comprobamos que efectivamente tienen conexión.
 
