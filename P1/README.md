@@ -7,6 +7,8 @@ virtuales de nombre 'M1' y 'M2' con 512 MB de RAM y 10 GB de disco duro dinámic
 LAMP por lo que tenemos instalado Apache+PHP+MySQL.
 
 Cuando se haya terminado la instalación de las dos máquinas (M2 será clonada de M1), configuraremos los adaptadores de red. El adaptador 1 
-de tipo NAT y el adaptador 2 de 
+de tipo NAT y el adaptador 2 de solo anfitrión. 
 
-![1](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/1..JPG)
+![2](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/2.JPG)
+
+Para que la comunicación entre los propios servidores y entre el host se produzca correctamente, debemos añadir las IPs estáticas correspondientes mediante la interfaz de sincronización enp0s8 ya que por defecto no viene definida. Para realizar esta tarea tendremos que editar el archivo 'etc/network/interfaces' mediante el comando `sudo nano interfaces` y añadiríamos:
