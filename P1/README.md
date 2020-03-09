@@ -17,3 +17,5 @@ Para que la comunicación entre los propios servidores y entre el host se produz
 ![4](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/4.JPG)
 
 Y activamos el enp0s8 con el comando ifup enp0s8. Por lo que la configuración de ambas máquinas quedaría tal que así:
+![5](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/5.JPG)
+![6](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/6.JPG)
