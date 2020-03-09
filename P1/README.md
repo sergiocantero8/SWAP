@@ -35,3 +35,9 @@ Para comprobar la versión del servidor utilizaremos los comando `apache2 -v` y 
 
 #### Acceso por SSH y Curl
 Para comprobar que la conexión por SSH funciona usaremos el comando `ssh ipmachine -l user` entre las dos máquinas virtuales. Primero probaremos la conexión desde M1 a M2: 
+
+![10](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/10.JPG)
+
+Y ahora de la máquina M2 a la M1:
+
+![11](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/11.JPG)
