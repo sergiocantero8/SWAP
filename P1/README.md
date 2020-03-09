@@ -9,4 +9,4 @@ LAMP por lo que tenemos instalado Apache+PHP+MySQL.
 Cuando se haya terminado la instalación de las dos máquinas (M2 será clonada de M1), configuraremos los adaptadores de red. El adaptador 1 
 de tipo NAT y el adaptador 2 de 
 
-![lalollll](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/1..JPG)
+![1](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/1..JPG)
