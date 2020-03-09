@@ -41,3 +41,15 @@ Para comprobar que la conexión por SSH funciona usaremos el comando `ssh ipmach
 Y ahora de la máquina M2 a la M1:
 
 ![11](https://github.com/sergiocantero8/SWAP/blob/master/P1/Capturas/11.JPG)
+
+Ahora usaremos la herramienta `curl`para acceder a un archivo html de una máquina a otra. Creamos el `ejemplo.html` que tendrá un código sencillo:
+
+```
+<HTML>
+<BODY>
+Web de ejemplo de “tu_usuario_git” para SWAP
+</BODY>
+</HTML>
+```
+
+Y comprobamos que podemos acceder a él desde la máquina 1 a la 2:
